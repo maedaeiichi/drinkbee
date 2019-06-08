@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>6B8E3B8D-F2F7-4724-9096-6762B5F06DBC</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6B8E3B8D-F2F7-4724-9096-6762B5F06DBC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>preDB project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>preDB</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project preDB with scheme preDB and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>581679685.61266506</real>
+			<key>timeStoppedRecording</key>
+			<real>581679693.10756004</real>
+			<key>title</key>
+			<string>Building project preDB with scheme preDB and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>6B8E3B8D-F2F7-4724-9096-6762B5F06DBC</string>
+		</dict>
+		<key>FE98AF07-C04C-476B-970E-E79FF5A11731</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FE98AF07-C04C-476B-970E-E79FF5A11731.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>preDB project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>preDB</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project preDB with scheme preDB and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>581132705.33166695</real>
+			<key>timeStoppedRecording</key>
+			<real>581133074.73397803</real>
+			<key>title</key>
+			<string>Building project preDB with scheme preDB and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FE98AF07-C04C-476B-970E-E79FF5A11731</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
